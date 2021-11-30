@@ -1,0 +1,105 @@
+    1  f:
+    2  cd f:
+    3  cd MyWork/
+    4  ls
+    5  cd Lily/Bur
+    6  cd Spells
+    7  grep awe1 *sas
+    8  cd ..
+    9  ls
+   10  cd Service
+   11  grep awe1 *sas
+   12  ls
+   13  cd ..
+   14  ls
+   15  cd Finish/
+   16  grep awe1 *sas
+   17  cd ../Fup/
+   18  ls
+   19  grep awe1 *sas
+   20  cd ..
+   21  ls
+   22  cd Spells/
+   23  ls
+   24  grep awe1 *sas
+   25  cd ../Service
+   26  cd Data
+   27  ls
+   28  grep awe1 *sas
+   29  vi makedata1.sas
+   30  grep fuwk *sas
+   31  vi makedata2.sas
+   32  cd ..
+   33  exit
+   34  hello
+   35  cd ~
+   36  pwd
+   37  ls
+   38  vi duf
+   39  ls
+   40  cd marschke/
+   41  ls
+   42  cd ..
+   43  ls
+   44  git config --list
+   45  git config --list grep http
+   46  git config --list
+   47  xcode-select
+   48  pwd
+   49  cd ~
+   50  pwd
+   51  latex
+   52  which latex
+   53  xcode-select --install
+   54  sudo xcode-select --install
+   55  git config --list
+   56  git config --global user.name "Gerald Marschke"
+   57  git config --list
+   58  git config --global user.email "gerald.marschke@gmail.com"
+   59  git config --list
+   60  h
+   61  history
+   62  vi dufus
+   63  vim dufus
+   64  ls
+   65  cd _viminfo
+   66  cd vimfiles/
+   67  ls
+   68  ls -a
+   69  cd ..
+   70  ls -a
+   71  vi .viminfo
+   72  git config --list
+   73  ls -a
+   74  vi .gitconfig
+   75  git config --global init.defaultBranch main
+   76  git config --list
+   77  more .gitconfig 
+   78  get .gitconfig
+   79  cat .gitconfig
+   80  vi .gitconfig 
+   81  ls
+   82  mkdir Test_github_repository
+   83  cd Test_github_repository/
+   84  pwd
+   85  pwd
+   86  h
+   87  history
+   88  git config --list
+   89  mkdir Test_git
+   90  cd Test
+   91  ls
+   92  touch readme.txt
+   93  ll
+   94  ls
+   95  cd Test_github_repository/
+   96  touch readme.txt
+   97  ls
+   98  vi readme.txt
+   99  ls
+  100  cat readme.txt 
+  101  history >dufus
+  102  vi duf
+  103  vi dufus
+  104  rm dufus
+  105  history > dufus.txt
